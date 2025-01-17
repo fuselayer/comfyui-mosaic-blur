@@ -6,10 +6,10 @@ license = {file = "LICENSE"}
 dependencies = ["torch", "Pillow", "numpy", "opencv-python"]
 
 [project.urls]
-Repository = "https://github.com/nmlen/comfyui-mosaic-blur"
+Repository = "https://github.com/fuselayer/comfyui-mosaic-blur"
 #  Used by Comfy Registry https://comfyregistry.org
 
 [tool.comfy]
-PublisherId = ""
+PublisherId = "fuselayer"
 DisplayName = "comfyui-mosaic-blur"
 Icon = ""
