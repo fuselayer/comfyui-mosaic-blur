@@ -2,7 +2,7 @@
 name = "mosaic-blur"
 description = "A simple mosaic blur node for ComfyUI that uses CV2 or Pillow"
 version = "1.0.0"
-license = {file = "LICENSE"}
+license = {text = "MIT License"}
 dependencies = ["torch", "Pillow", "numpy", "opencv-python"]
 
 [project.urls]
